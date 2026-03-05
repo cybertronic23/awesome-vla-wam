@@ -54,13 +54,17 @@ In short, WAM models are a type of robotics policy that inherits the pretrained 
 
 ## General VLA
 
-- **SimVLA**, SimVLA: A Simple VLA Baseline for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.18224-b31b1b.svg)](https://arxiv.org/abs/2602.18224) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://frontierrobo.github.io/SimVLA/)
+- **HoloBrain-0**, HoloBrain-0 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2602.12062-b31b1b.svg)](https://arxiv.org/abs/2602.12062) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://horizonrobotics.github.io/robot_lab/holobrain/)
 
 - **ABot-M0**, ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. [![arXiv](https://img.shields.io/badge/arXiv-2602.11236-b31b1b.svg)](https://arxiv.org/abs/2602.11236) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://amap-cvlab.github.io/ABot-Manipulation/)
 
+- **SimVLA**, SimVLA: A Simple VLA Baseline for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.18224-b31b1b.svg)](https://arxiv.org/abs/2602.18224) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://frontierrobo.github.io/SimVLA/)
+
 - [⭐️] **Lingbot-VLA**, A Pragmatic VLA Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.18692-b31b1b.svg)](https://arxiv.org/abs/2601.18692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-vla/)
 
-- **VLM4VLA**, VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2601.03309-b31b1b.svg)](https://arxiv.org/abs/2601.03309) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cladernyjorn.github.io/VLM4VLA.github.io/)
+- **ACoT-VLA**, ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-22601.11404-b31b1b.svg)](https://arxiv.org/abs/2601.11404) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/AgibotTech/ACoT-VLA)
+
+- **HoloBrain-0**, HoloBrain-0 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2602.12062-b31b1b.svg)](https://arxiv.org/abs/2602.12062) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://horizonrobotics.github.io/robot_lab/holobrain/)
 
 - Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
 
@@ -71,6 +75,8 @@ In short, WAM models are a type of robotics policy that inherits the pretrained 
 - **AsyncVLA**, AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.14148-b31b1b.svg)](https://arxiv.org/abs/2511.14148) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/YuhuaJiang2002/AsyncVLA)
 
 - **VLA-0**, VLA-0: Building State-of-the-Art VLAs with Zero Modification. [![arXiv](https://img.shields.io/badge/arXiv-2510.13054-b31b1b.svg)](https://arxiv.org/abs/2510.13054) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://vla0.github.io)
+
+- **X-VLA**, X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2510.10274-b31b1b.svg)](https://arxiv.org/abs/2510.10274) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-air-dream.github.io/X-VLA/)
 
 - **UniVLA**, Unified Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robertwyq.github.io/univla.github.io/)
 
@@ -100,6 +106,10 @@ In short, WAM models are a type of robotics policy that inherits the pretrained 
 
 
 ## World Action Models in VLA
+
+- **WoG**, World Guidance World Modeling in Condition Space for Action Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.22010-b31b1b.svg)](https://arxiv.org/abs/2602.22010) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://selen-suyue.github.io/WoGNet/)
+
+- **VLA-JEPA**, VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.10098-b31b1b.svg)](https://arxiv.org/abs/2602.10098) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ginwind.github.io/VLA-JEPA/)
 
 - **MM-ACT**, MM-ACT: Learn from Multimodal Parallel Generation to Act. [![arXiv](https://img.shields.io/badge/arXiv-2512.00975-b31b1b.svg)](https://arxiv.org/abs/2512.00975) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HHYHRHY/MM-ACT)
 
