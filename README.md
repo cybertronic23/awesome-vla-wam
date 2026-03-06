@@ -19,7 +19,7 @@
 - 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition)
 - 🔍 [Survey](#survey)
 
-**🤖 Vision-Language-Action (VLA) Models**
+**Vision-Language-Action (VLA) Models**
 - 🧠 [General VLA](#general-vla)
 - 💡 [VLA with Understanding and Reasoning](#vla-with-understanding-and-reasoning)
 - 🌐 [VLA with 3D/4D Modelling](#vla-with-3d4d-modelling)
@@ -29,7 +29,7 @@
 - 🧭 [Domain-Specific VLA (e.g., Humanoid, Tactile)](#domain-specific-vla-eg-humanoid-tactile)
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
 
-**🌍 World Action Models (WAM)**
+**World Action Models (WAM)**
 - 🎬 [World Action Models from VideoGen](#world-action-models-from-videogen)
 - 🌍 [World Action Models from VLA](#world-action-models-from-vla)
 - ✨ [World Action Models from Scratch](#world-action-models-from-scratch)
@@ -37,7 +37,7 @@
 **🦾 Traditional Policies**
 - 🦾 [Traditional Policies](#traditional-policies)
 
-**📦 Resources**
+**Resources**
 - 💾 [Datasets](#datasets)
 - 📊 [Benchmark / Environment](#benchmark--environment)
 - 🏞️ [Physics Engine](#physics-engine)
