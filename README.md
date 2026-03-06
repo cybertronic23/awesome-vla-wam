@@ -44,11 +44,11 @@ In short, VLA models are a type of robotics policy that inherits the pretrained 
 - [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
 
 ## WAM Definition
-In short, WAM models are a type of robotics policy that jointly train on video and action generation, leveraging world modeling capability (predicting the future state) for action prediction. We can see the great work, DreamZero, who formally proposes the name World Action Model, for details.
+In short, WAM models are a type of robotics policy that jointly trains on video and action generation, leveraging world modeling capability (i.e., predicting future states) for action prediction. We refer to the great work DreamZero, which formally coins the name World Action Model, for details.
 
 - [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
 
-There is an intersection between VLA and WAM, which is a WAM that built on a pretrained VLMs. These types of models are both VLA and WAM.
+There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. These models are simultaneously both VLA and WAM.
 
 ## Survey
 - Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
