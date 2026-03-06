@@ -34,7 +34,7 @@
 - 🌍 [World Action Models from VLA](#world-action-models-from-vla)
 - ✨ [World Action Models from Scratch](#world-action-models-from-scratch)
 
-**🦾 Traditional Policies**
+**Traditional Policies**
 - 🦾 [Traditional Policies](#traditional-policies)
 
 **Resources**
