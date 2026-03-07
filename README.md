@@ -197,6 +197,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **ReconVLA**, ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver. [![arXiv](https://img.shields.io/badge/arXiv-2508.10333-b31b1b.svg)](https://arxiv.org/abs/2508.10333) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zionchow.github.io/ReconVLA/)
 
+- **X-ICM**, Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2505.15660-b31b1b.svg)](https://arxiv.org/abs/2505.15660) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiaming-zhou.github.io/AGNOSTOS/)
+
 - **ForceVLA**, ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2505.22159-b31b1b.svg)](https://arxiv.org/abs/2505.22159) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/forcevla2025)
 
 - **TraceVLA**, TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. [![arXiv](https://img.shields.io/badge/arXiv-2412.10345-b31b1b.svg)](https://arxiv.org/abs/2412.10345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tracevla.github.io)
