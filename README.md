@@ -24,7 +24,7 @@
 - 🔥 [VLA with Reinforcement Learning](#vla-with-reinforcement-learning)
 - 🪶 [Efficient VLA](#efficient-vla)
 - 🧪 [VLA with Latent Actions](#vla-with-latent-actions)
-- 🧭 [Domain-Specific VLA (e.g., Humanoid, Tactile)](#domain-specific-vla-eg-humanoid-tactile)
+- 🧭 [Domain-Specific VLA (e.g., Humanoid, Dexterous, Tactile)](#domain-specific-vla-eg-humanoid-dexterous-tactile)
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
 
 **World Action Models (WAM)**
@@ -179,7 +179,9 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - [⭐️] **LAPA**, Latent Action Pretraining from Videos. [![arXiv](https://img.shields.io/badge/arXiv-2410.11758-b31b1b.svg)](https://arxiv.org/abs/2410.11758) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://latentactionpretraining.github.io)
 
 
-## Domain-Specific VLA (e.g., Humanoid, Tactile)
+## Domain-Specific VLA (e.g., Humanoid, Dexterous, Tactile)
+
+- **METIS**, METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2511.17366-b31b1b.svg)](https://arxiv.org/abs/2511.17366)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://aureleopku.github.io/METIS/)
 
 - **Tactile-VLA**, Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2507.09160-b31b1b.svg)](https://arxiv.org/abs/2507.09160)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://jialeihuang.github.io/tactileVLA.github.io/)
 
@@ -213,6 +215,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **Lingbot-VA**, Causal World Modeling for Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va)
 
 - **mimic-video**, mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs. [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io)
+
+- **Video Policy**, Video Generators are Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2508.00795-b31b1b.svg)](https://arxiv.org/abs/2508.00795) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://videopolicy.cs.columbia.edu)
 
 - **DreamGen**, DreamGen: Unlocking Generalization in Robot Learning through Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2505.12705-b31b1b.svg)](https://arxiv.org/abs/2505.12705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/dreamgen/)
 
