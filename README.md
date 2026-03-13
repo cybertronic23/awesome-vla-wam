@@ -4,8 +4,6 @@
 
 **📜 A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond** </br>
 
-<!-- **🚀 Welcome to follow our exploratory work on VLA, [VLANeXt](https://github.com/DravenALG/VLANeXt).** -->
-
 <p align="center">
   <img src="awesome-vla-wam.jpg" alt="Awesome VLA & WAM" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
@@ -64,6 +62,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
 
 ## General VLA
+
+- **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
 - **HoloBrain-0**, HoloBrain-0 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2602.12062-b31b1b.svg)](https://arxiv.org/abs/2602.12062) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://horizonrobotics.github.io/robot_lab/holobrain/)
 
